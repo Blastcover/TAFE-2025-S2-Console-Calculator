@@ -1,0 +1,15 @@
+C:\Users\30025769\Documents\MyCalcGit\bin\Debug\net9.0\MyCalcGit.exe
+C:\Users\30025769\Documents\MyCalcGit\bin\Debug\net9.0\MyCalcGit.deps.json
+C:\Users\30025769\Documents\MyCalcGit\bin\Debug\net9.0\MyCalcGit.runtimeconfig.json
+C:\Users\30025769\Documents\MyCalcGit\bin\Debug\net9.0\MyCalcGit.dll
+C:\Users\30025769\Documents\MyCalcGit\bin\Debug\net9.0\MyCalcGit.pdb
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\MyCalcGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\MyCalcGit.AssemblyInfoInputs.cache
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\MyCalcGit.AssemblyInfo.cs
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\MyCalcGit.csproj.CoreCompileInputs.cache
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\MyCalcGit.sourcelink.json
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\MyCalcGit.dll
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\refint\MyCalcGit.dll
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\MyCalcGit.pdb
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\MyCalcGit.genruntimeconfig.cache
+C:\Users\30025769\Documents\MyCalcGit\obj\Debug\net9.0\ref\MyCalcGit.dll
